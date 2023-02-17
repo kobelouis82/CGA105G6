@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS搭配 secondhandrecycle.jsp 使用 */
+
+.diskbox-radioGroup{
+	display : flex ;
+	margin-top : 50px ;
+}
+
+.diskboxOne{
+	margin : 10px ;
+}
+
+.selectBtn{
+	border : 1px solid black;
+}
+
+.btnGroup{
+	width : 220px;
+	margin : 50px auto;
+}
+
